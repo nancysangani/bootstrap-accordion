@@ -11,7 +11,8 @@ An interactive and responsive **accordion UI** built using **Bootstrap 5**, feat
 
 ## ✨ Features  
 - 📂 Organized accordion layout with multiple collapsible items  
-- 💳 Interactive pricing **cards** with rupee (₹) pricing  
+- 💳 Interactive pricing **cards** with rupee (₹) pricing
+- 🎴 Interactive flip cards for engaging content  
 - ⚠️ Color-coded **alerts** for success, info, warning, and danger  
 - 🔘 Variety of **button styles** using Bootstrap classes  
 - 📋 Responsive **table** with hover effects  
@@ -26,3 +27,4 @@ An interactive and responsive **accordion UI** built using **Bootstrap 5**, feat
 | **CSS3** | Custom styling and animations |
 | **Bootstrap 5** | Layout, components, and responsiveness |
 | **Font Awesome** | Icons for cards and buttons |
+
